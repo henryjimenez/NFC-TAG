@@ -1,0 +1,3 @@
+# NFC-TAG
+correction to the libraries for arduino M24s64ya 2021
+ADD EACH FOLDER AS A LIBRARY OF THE ARDUINO WITH THE LIBRARY MANAGER
